@@ -1,4 +1,5 @@
 This project focuses on analyzing the dataset of all restaurants listed on Zomato in Bangalore. The dataset contains various columns, including names, ratings, types of cuisine served, order option availability, and more. The goal of this project is to perform data cleaning and create visualizations using python to derive insights that can help in making strategic decisions.
+
 **Dataset Overview**
 The dataset used in this project includes the following columns:
 
@@ -14,6 +15,7 @@ Number of Reviews: Number of customer reviews.
 Other Columns: Additional columns providing more details about each restaurant.
 
 **Project Steps**
+
 *Data Cleaning:*
 
 Removed duplicate entries.
@@ -31,12 +33,14 @@ Ratings Distribution: Boxplot plots displaying the distribution of ratings to di
 Cuisin Analysis: Vote distribution across different cuisines and types.
 
 **Tools and Libraries Used:-**
+
 Python: Programming language used for the entire project.
 Pandas: For data manipulation and cleaning.
 Matplotlib and Seaborn: For creating various graphs and visualizations.
 Jupyter Notebook: For interactive data analysis and visualization.
 
 **Key Insights**
+
 Cuisine Trends: Identified the most and least popular cuisines in Bangalore.
 Rating Patterns: Discovered trends and patterns in restaurant ratings across different locations and cuisines.
 Strategic Locations: Highlighted areas with high concentrations of restaurants and popular cuisines.

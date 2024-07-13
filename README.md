@@ -46,5 +46,6 @@ Rating Patterns: Discovered trends and patterns in restaurant ratings across dif
 Strategic Locations: Highlighted areas with high concentrations of restaurants and popular cuisines.
 
 **Conclusion**
+
 This project provides a comprehensive analysis of Bangalore's restaurant scene using the Zomato dataset. We get from graph that BTM has highest number of restaurant with 5056 but only 3256 take online orders.North Indian cuisin is most famous among all. The insights gained from the visualizations can be used by restaurant owners, marketing team, and strategists to make informed decisions. The project demonstrates the power of data cleaning and visualization in deriving meaningful insights from raw data.
 
